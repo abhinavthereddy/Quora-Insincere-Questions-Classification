@@ -5,7 +5,7 @@ This repositiory present my submisison for the Kaggle challenge titled Quora Ins
 
 # Requirements:
 1. **Data**: Download train, test data from https://www.kaggle.com/c/quora-insincere-questions-classification/data and save in the main directory.
-2. **Embeddings**: Download the 'glove.840B.300d' embeddings from https://www.kaggle.com/c/quora-insincere-questions-classification/data and save in a new directory called 'embeddings'.
+2. **Embeddings**: Download the 'glove.840B.300d' embeddings from https://www.kaggle.com/c/quora-insincere-questions-classification/data and unzip, save in a new directory called 'embeddings'.
     Your directory structure should look like:  
     * README.md
     * clean_question.py  
