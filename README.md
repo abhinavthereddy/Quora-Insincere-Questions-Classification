@@ -1,6 +1,6 @@
 # Quora Insincere Questions Classification
 
-This repositiory present my submisison for the Kaggle challenge titled 'Quora Insincere Questions Classification'. The goal of this projecy is to build an efficient and reliable model that identifies toxic content on quora. Quora is a platform that empowers people to learn from each other. On Quora, people can ask questions and connect with others who contribute unique insights and quality answers. A key challenge is to weed out insincere questions -- those founded upon false premises, or that intend to make a statement rather than look for helpful answers [1].
+This repository presents my submisison for the Kaggle challenge titled 'Quora Insincere Questions Classification'. The goal of this projecy is to build an efficient and reliable model that identifies toxic content on quora. Quora is a platform that empowers people to learn from each other. On Quora, people can ask questions and connect with others who contribute unique insights and quality answers. A key challenge is to weed out insincere questions -- those founded upon false premises, or that intend to make a statement rather than look for helpful answers [1].
 
 
 # Requirements:
